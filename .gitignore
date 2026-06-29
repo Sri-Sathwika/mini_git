@@ -1,0 +1,13 @@
+# Executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# MyGit internal storage (IMPORTANT)
+.mygit/
+
+# Logs / test files
+commit.log
+notes.txt
